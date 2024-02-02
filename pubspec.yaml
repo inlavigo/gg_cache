@@ -1,14 +1,13 @@
 name: gg_cache
 description: A simple cache method that helps us to cache results of a function.
 version: 1.0.0
-repository: https://github.com/inlavigo/gg_cache.git
+repository: https://github.com/inlavigo/gg_cache
 
 environment:
   sdk: ^3.2.0
 
-# Add regular dependencies here.
 dependencies:
-  # path: ^1.8.0
+  gg_list: ^1.2.0
 
 dev_dependencies:
   args: ^2.4.2

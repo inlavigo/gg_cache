@@ -3,6 +3,4 @@
 /// More dartdocs go here.
 library;
 
-export 'src/gg_cache_base.dart';
-
-// TODO: Export any libraries intended for clients of this package.
+export 'src/cache.dart';
