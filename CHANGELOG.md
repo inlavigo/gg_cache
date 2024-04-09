@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased]
+
+### Removed
+
+- 'Pipline: Disable cache'
+
 ## [1.0.1] - 2024-04-09
 
 ### Added
@@ -12,4 +18,5 @@
 - 'Github Actions Pipeline'
 - 'Github Actions Pipeline: Add SDK file containing flutter into .github/workflows to make github installing flutter and not dart SDK'
 
+[Unreleased]: https://github.com/inlavigo/gg_cache/compare/1.0.1...HEAD
 [1.0.1]: https://github.com/inlavigo/gg_cache/tag/%tag
