@@ -13,7 +13,7 @@ void main() {
   group('Cache', () {
     // #########################################################################
 
-    test('should work fine', () {
+    test('should work for selected cases', () {
       final cache = Cache<String>();
       var counter = 0;
 
